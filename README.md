@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love coding and to learn new language.. 
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=zeynepsarikaya&show_icons=true&theme=gradient)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=ToKyOzY&show_icons=true&theme=gradient)
