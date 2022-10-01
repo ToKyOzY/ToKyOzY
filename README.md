@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ToKyOzY&show_icons=true&theme=radical)
 
-<img src=""C:\Users\Zeynep Sarıkaya\Downloads\GRASPSKILLS PMP CERTIFICATIO_ A LOT MORE THAN A PROMISING CAREER PATH.gif"" width="auto">
+<img src="https://raw.githubusercontent.com/ToKyOzY/ToKyOzY/main/GRASPSKILLS%20PMP%20CERTIFICATIO_%20A%20LOT%20MORE%20THAN%20A%20PROMISING%20CAREER%20PATH.gif" width="auto">
