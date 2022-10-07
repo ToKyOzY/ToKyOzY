@@ -1,9 +1,8 @@
 ### Hello World, I'm Zeynep👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on coding
-- 🌱 I’m currently learning ...
+- 🌱 I’m a Software Test Engineer.
+- 🔭 I’m currently working on coding..
 - 💬 Ask me about Java, Lambda, Selenium, SDLC, STLC,HTML-CSS, PostgreSQL, JDBC, API, Jenkins, Cucumber...
 - 📫 How to reach me: zynpsarkaya@gmail.com
 - ⚡ Fun fact: I love coding and to learn new language.. 
