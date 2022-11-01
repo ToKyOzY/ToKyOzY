@@ -11,6 +11,5 @@
 
 <img src="https://raw.githubusercontent.com/ToKyOzY/ToKyOzY/main/GRASPSKILLS%20PMP%20CERTIFICATIO_%20A%20LOT%20MORE%20THAN%20A%20PROMISING%20CAREER%20PATH.gif" width="auto">
 
-![snake gif](https://github.com/ToKyOzY/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
 
 ![snake gif](https://github.com/ToKyOzY/ToKyOzY/blob/output/github-contribution-grid-snake.svg)
