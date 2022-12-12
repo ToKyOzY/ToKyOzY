@@ -1,4 +1,5 @@
-  ### ***Hello World, I'm Zeynep***👋
+ <h1 align="center">
+ ### ***Hello World, I'm Zeynep***👋
 
 
 - 🌱 I’m a Software Test Engineer.
