@@ -1,7 +1,7 @@
-
+<h1 align="center">
  ### ***Hello World, I'm Zeynep***👋
 
-
+<br>
 - 🌱 I’m a Software Test Engineer.
 - 🔭 I’m currently working on coding..
 - 💬 Ask me about Java, Lambda, Selenium, SDLC, STLC,HTML-CSS, PostgreSQL, JDBC, API, Jenkins, Cucumber, Junit, TestNG..
