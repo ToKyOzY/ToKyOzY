@@ -4,7 +4,7 @@
 
 - 🌱 I’m a Software Test Engineer.
 - 🔭 I’m currently working on coding..
-- 💬 Ask me about Java, Lambda, Selenium, SDLC, STLC,HTML-CSS, PostgreSQL, JDBC, API, Jenkins, Cucumber, Junit, TestNG..
+- 💬 Ask me about Java, Lambda, Selenium, SDLC, STLC, PostgreSQL, JDBC, API, Cucumber, Junit, TestNG..
 - 📫 How to reach me: zynpsarkaya@gmail.com
 - ⚡ Fun fact: I love coding and to learn new language.. 
 
