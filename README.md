@@ -13,6 +13,6 @@
 ![snake gif](https://github.com/SenaYcdl/SenaYcdl/blob/output/github-contribution-grid-snake.svg)
 
 
-<img src="https://github.com/ToKyOzY/ToKyOzY/blob/main/ba4efc5bf76aaef93c65227a950bb419.mp4" width="auto">
+<img src="https://github.com/ToKyOzY/ToKyOzY/blob/main/ba4efc5bf76aaef93c65227a950bb419" width="auto">
 
 
