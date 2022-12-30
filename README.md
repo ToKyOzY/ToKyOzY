@@ -1,6 +1,7 @@
 
  ### ***Hello World, I'm Zeynep***👋
 
+<img src="https://github.com/ToKyOzY/ToKyOzY/blob/main/3c66cbe391e89816cacf9a80903b9a4d.jpg" align=beside width=300 >
 
 - 🌱 I’m a Software Test Engineer.
 - 🔭 I’m currently working on coding..
@@ -15,7 +16,7 @@
 
 <img src="https://github.com/ToKyOzY/ToKyOzY/blob/main/Computer%20Work%20GIF%20-%20Computer%20Work%20Online%20-%20Discover%20%26%20Share%20GIFs.gif" width="auto">
 
-<img src="https://github.com/ToKyOzY/ToKyOzY/blob/main/3c66cbe391e89816cacf9a80903b9a4d.jpg" align=beside width=190 >
+
 
 
 <!--img align=beside width=190 src="https://github.com/ToKyOzY/ToKyOzY/blob/main/ba4efc5bf76aaef93c65227a950bb419.mp4" />
