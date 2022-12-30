@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on coding..
 - 💬 Ask me about :  ***Java, Selenium, SDLC, JDBC, API, Cucumber BDD, Junit, TestNG..***
 - 📫 How to reach me: zynpsarkaya@gmail.com
-- ⚡ Fun fact: ##***I love coding and to learn new language..*** 
+- ⚡ Fun fact: ***I love coding and to learn new language..*** 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ToKyOzY&show_icons=true&theme=radical)
 
