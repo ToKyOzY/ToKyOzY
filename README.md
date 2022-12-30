@@ -15,4 +15,4 @@
 
 <img src="https://github.com/ToKyOzY/ToKyOzY/blob/main/ba4efc5bf76aaef93c65227a950bb419.mp4" width="auto">
 
-
+<img align=beside width=190 src="https://github.com/ToKyOzY/ToKyOzY/blob/main/ba4efc5bf76aaef93c65227a950bb419.mp4" />
