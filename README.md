@@ -1,5 +1,7 @@
+### ***
 <h1 align="center">
- ### ***Hello World, I'm Zeynep***👋
+ Hello World, I'm Zeynep👋
+ ***
  <br>
 <img src="https://github.com/ToKyOzY/ToKyOzY/blob/main/3c66cbe391e89816cacf9a80903b9a4d.jpg" align=beside width=300 >
 </h1>
