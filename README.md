@@ -4,7 +4,7 @@
 <br> 
 <img src="https://github.com/ToKyOzY/ToKyOzY/blob/main/3c66cbe391e89816cacf9a80903b9a4d.jpg" align=beside width=300 >
 </h1>
- <br>
+
 - 🌱 I’m a Full Stack Automation Test Engineer.
 - 🔭 I’m currently working on coding..
 - 💬 Ask me about :  ***Java, Selenium, SDLC, JDBC, API, Cucumber BDD, Junit, TestNG..***
