@@ -8,14 +8,14 @@
 
 
  
-- 🌱 I’m a Full Stack Automation Test Engineer.
+- 🌱 I’m a Full Stack Automation Test Engineer.        ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ToKyOzY&show_icons=true&theme=radical)
 - 🔭 I’m currently working on coding..
 - 📫 How to reach me: zynpsarkaya@gmail.com
 - ⚡ Fun fact: ***I love coding and to learn new language..*** 
 
 <h1 align="center"> 
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=ToKyOzY&show_icons=true&theme=radical)
+
  
 </h1>
 
