@@ -8,7 +8,6 @@
 
 - 🌱 I’m a Full Stack Automation Test Engineer.
 - 🔭 I’m currently working on coding..
-- 💬 Ask me about :  ***Java, Selenium, SDLC, JDBC, API, Cucumber BDD, Junit, TestNG..***
 - 📫 How to reach me: zynpsarkaya@gmail.com
 - ⚡ Fun fact: ***I love coding and to learn new language..*** 
 
