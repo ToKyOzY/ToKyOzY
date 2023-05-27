@@ -17,7 +17,7 @@
 
 
 
-<img src="https://github.com/ToKyOzY/ToKyOzY/blob/main/download.gif" width=800>
+<img src="https://github.com/ToKyOzY/ToKyOzY/blob/main/Tumblr.gif" width=800>
 
 
 <!--img src="https://github.com/ToKyOzY/ToKyOzY/blob/main/Computer%20Work%20GIF%20-%20Computer%20Work%20Online%20-%20Discover%20%26%20Share%20GIFs.gif" width="auto">
