@@ -6,14 +6,15 @@
 <img src="https://github.com/ToKyOzY/ToKyOzY/blob/main/3c66cbe391e89816cacf9a80903b9a4d.jpg" align=beside width=300 >
 </h1>
 
-<h1 align="center">
+
  
 - 🌱 I’m a Full Stack Automation Test Engineer.
 - 🔭 I’m currently working on coding..
 - 📫 How to reach me: zynpsarkaya@gmail.com
 - ⚡ Fun fact: ***I love coding and to learn new language..*** 
 
- 
+<h1 align="center"> 
+
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ToKyOzY&show_icons=true&theme=radical)
  
 </h1>
