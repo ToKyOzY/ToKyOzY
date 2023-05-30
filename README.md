@@ -18,6 +18,10 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/zeynep-sarikaya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zeynep-sarikaya/" height="30" width="40" /></a>
 </p>
 
+<p align="center">
+      <img height="170em" src="https://awesome-github-stats.azurewebsites.net/user-stats/ToKyOzY?cardType=github&theme=monokai&Text=DD971A") />
+      <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ToKyOzY&layout=compact&langs_count=8&theme=monokai&Text=DD971A"/>
+</p>
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ToKyOzY&show_icons=true&theme=radical)
  
