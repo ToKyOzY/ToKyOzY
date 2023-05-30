@@ -19,7 +19,9 @@
 
 ![snake gif](https://github.com/SenaYcdl/SenaYcdl/blob/output/github-contribution-grid-snake.svg)
 
+<h1 align="center">
 <img src="https://github.com/ToKyOzY/ToKyOzY/blob/main/Pixelart%20GIF%20-%20Find%20%26%20Share%20on%20GIPHY.gif" >
+ </h1>
 <!--
 <h1 align="center">
 <img src="https://github.com/ToKyOzY/ToKyOzY/blob/main/Tumblr.gif" width=800>
