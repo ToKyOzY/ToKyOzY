@@ -22,8 +22,6 @@
       <img height="170em" src="https://awesome-github-stats.azurewebsites.net/user-stats/ToKyOzY?cardType=github&theme=monokai&Text=DD971A") />
       <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ToKyOzY&layout=compact&langs_count=8&theme=monokai&Text=DD971A"/>
 </p>
-
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=ToKyOzY&show_icons=true&theme=radical)
  
 
 ![snake gif](https://github.com/SenaYcdl/SenaYcdl/blob/output/github-contribution-grid-snake.svg)
@@ -32,6 +30,7 @@
 <img src="https://github.com/ToKyOzY/ToKyOzY/blob/main/Pixelart%20GIF%20-%20Find%20%26%20Share%20on%20GIPHY.gif" >
  </h1>
 <!--
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=ToKyOzY&show_icons=true&theme=radical)
 <h1 align="center">
 <img src="https://github.com/ToKyOzY/ToKyOzY/blob/main/Tumblr.gif" width=800>
  align=beside width=300
