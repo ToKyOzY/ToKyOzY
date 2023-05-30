@@ -3,7 +3,7 @@
  Hello, I'm Zeynep👋
 <br> 
 <br>
-<img src="https://github.com/ToKyOzY/ToKyOzY/blob/main/Pixelart%20GIF%20-%20Find%20%26%20Share%20on%20GIPHY.gif" align=beside width=300 >
+
 </h1>
 
 
@@ -19,9 +19,11 @@
 
 ![snake gif](https://github.com/SenaYcdl/SenaYcdl/blob/output/github-contribution-grid-snake.svg)
 
+<img src="https://github.com/ToKyOzY/ToKyOzY/blob/main/Pixelart%20GIF%20-%20Find%20%26%20Share%20on%20GIPHY.gif" >
 <!--
 <h1 align="center">
 <img src="https://github.com/ToKyOzY/ToKyOzY/blob/main/Tumblr.gif" width=800>
+ align=beside width=300
 </h1>
 
 <!--img src="https://github.com/ToKyOzY/ToKyOzY/blob/main/Computer%20Work%20GIF%20-%20Computer%20Work%20Online%20-%20Discover%20%26%20Share%20GIFs.gif" width="auto">
