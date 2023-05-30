@@ -13,6 +13,7 @@
 - 📫 How to reach me: zynpsarkaya@gmail.com
 - ⚡ Fun fact: ***I love coding and to learn new language..*** 
 
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/zeynep-sarikaya/" target="blank"><img align="center"
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ToKyOzY&show_icons=true&theme=radical)
  
