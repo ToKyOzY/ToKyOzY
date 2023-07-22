@@ -26,7 +26,7 @@
 
 ![snake gif](https://github.com/ToKyOzY/ToKyOzY/blob/output/github-contribution-grid-snake2.svg)
 
-
+<br>
 
 
 <h1 align="center">
