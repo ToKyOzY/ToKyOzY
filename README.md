@@ -25,10 +25,11 @@
  
 
 ![snake gif](https://github.com/SenaYcdl/SenaYcdl/blob/output/github-contribution-grid-snake.svg)
-![snake gif](https://github.com/ToKyOzY/ToKyOzY/actions/runs/5630236324)
+
 
 <h1 align="center">
 <img src="https://github.com/ToKyOzY/ToKyOzY/blob/main/Pixelart%20GIF%20-%20Find%20%26%20Share%20on%20GIPHY.gif" >
+
  </h1>
 <!--
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ToKyOzY&show_icons=true&theme=radical)
