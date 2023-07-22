@@ -24,7 +24,7 @@
 </p>
  
 
-![snake gif](https://github.com/ToKyOzY/ToKyOzY/blob/main/.github/workflows/GENERATE_SNAKE.yml)
+![snake gif](https://github.com/ToKyOzY/ToKyOzY/blob/output/github-contribution-grid-snake2.svg)
 
 
 
